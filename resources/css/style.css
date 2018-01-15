@@ -3,7 +3,23 @@ body {
 }
 
 .hero {
-  background-image: url('resources/images/flatiron_building.png');
+  background-image:
+  url('../images/building.png');
   text-align: center;
+  font-size: 70px;
+  font-weight: bold;
   color: white;
+}
+
+.hero h2 {
+  font-size: 23px;
+}
+
+.btn-nav {
+  font-size: 18px;
+  color: white;
+}
+
+.supporting {
+  text-align: center;
 }
